@@ -1,4 +1,4 @@
-# My customized dotfiles.
-Used by:
+# dotfiles
+
 * Alacritty
 * Zsh
